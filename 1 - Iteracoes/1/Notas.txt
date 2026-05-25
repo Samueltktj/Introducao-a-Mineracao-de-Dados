@@ -1,0 +1,4 @@
+3 grupos
+2 outsiders
+São Paulo eh um deles, não identifiquei o outro, vou rodar com 4 cluster para tentar identificalos
+tambem acho que isso pode ser pela coluna de população, vou tentar tirala na iteração 3

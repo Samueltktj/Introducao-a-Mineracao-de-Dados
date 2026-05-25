@@ -1,0 +1,1 @@
+15 grupos: Com a retirada de São Paulo, o eixo X apresentou uma concentração bem maior. Além disso, a visualização no Folium ficou mais clara, revelando fortes indícios de regionalização — principalmente nas regiões Sul, Norte, Nordeste e Centro-Oeste. Vale destacar que o padrão de agrupamento das cidades de Curitiba, Campo Grande, Manaus e Rio de Janeiro permanece inalterado.

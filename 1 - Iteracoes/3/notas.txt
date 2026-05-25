@@ -1,0 +1,1 @@
+20 grupos: São Paulo segue como um outlier no eixo X. Contudo, após a retirada de Fortaleza do Tabocão, o eixo Y perdeu a dimensão que tinha. Penso em remover São Paulo também, mas como ainda não retirei a população dos parâmetros, vou testar essa hipótese primeiro.

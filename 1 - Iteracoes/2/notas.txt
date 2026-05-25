@@ -1,0 +1,4 @@
+20 grupos
+Destacam-se 4 outliers, com destaque para Fortaleza do Tabocão/TO. É um outlier com emissões e vendas de combustíveis altíssimas. Os dados parecem errados por serem muito redondos — talvez baseados em premissas ou artificialmente inflados.
+
+Decidi retirar essa cidade das próximas análises e também remover a coluna de população.

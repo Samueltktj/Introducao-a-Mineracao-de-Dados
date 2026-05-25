@@ -1,0 +1,3 @@
+20 grupos: Mesmo removendo a coluna de população, São Paulo manteve-se como um outlier. Isso demonstra que a cidade possui um perfil de compra e venda de combustíveis de fato muito discrepante. Embora seja uma característica interessante para explorar posteriormente, no momento vou isolar São Paulo da análise para mapear os demais padrões.
+
+Outro ponto observado é a disparidade no tamanho dos agrupamentos: alguns clusters são pouco numerosos, enquanto outros concentram mais municípios. O cluster 3, por exemplo, engloba 4 capitais (Manaus, Rio de Janeiro, Curitiba e Campo Grande), enquanto o cluster 18 contém 6 cidades, das quais 5 são capitais (São Luís, Fortaleza, Recife, Salvador, Porto Alegre e a exceção, Joinville).
