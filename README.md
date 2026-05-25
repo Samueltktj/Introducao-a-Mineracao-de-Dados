@@ -21,4 +21,4 @@ Linux / Fedora:
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install pandas scikit-learn matplotlib folium seaborn
+pip install pandas scikit-learn matplotlib folium
