@@ -21,8 +21,8 @@ Ao realizar modificações ou novas iterações no algoritmo (ajuste de hiperpar
 Para cada experimento, adicione:
 * O gráfico de dispersão resultado do K-Means;
 * O mapa interativo gerado em formato HTML (`.html`);
-* A base de dados clusterizada em formato CSV (`.csv`).
-* As anotações dos resultados
+* A base de dados clusterizada em formato CSV (`.csv`);
+* As anotações dos resultados;
 
 ---
 
