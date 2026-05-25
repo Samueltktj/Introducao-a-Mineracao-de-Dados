@@ -1,2 +1,2 @@
-# Introdu-o-a-Minera-o-De-Dados
+# Introducao-a-Mineracao-de-Dados
 Introdução-a-Mineração-De-Dados
