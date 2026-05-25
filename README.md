@@ -14,6 +14,18 @@ A execução deve seguir esta ordem:
 
 ---
 
+# Diretrizes para Iterações do Modelo
+
+Ao realizar modificações ou novas iterações no algoritmo (ajuste de hiperparâmetros, alteração do número de clusters, remoção de outliers/variáveis, etc.), é obrigatório salvar os resultados gerados na pasta `iteraçoes/`. 
+
+Para cada experimento, adicione:
+* O gráfico de dispersão resultado do K-Means;
+* O mapa interativo gerado em formato HTML (`.html`);
+* A base de dados clusterizada em formato CSV (`.csv`).
+* As anotações dos resultados
+
+---
+
 # Instalação das Bibliotecas
 
 Linux / Fedora:
