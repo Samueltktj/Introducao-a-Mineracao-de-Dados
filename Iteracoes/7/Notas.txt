@@ -1,0 +1,1 @@
+Com certeza o ponto ótimo do CS não está acima de 25 grupos. Me parece que o K-Means está se saindo melhor. Para as próximas iterações, vou diminuir o número de grupos de 2 em 2, partindo de 22, até chegar a um CS maior.

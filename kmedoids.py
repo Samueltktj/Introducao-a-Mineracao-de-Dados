@@ -1,8 +1,8 @@
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_score
+from sklearn_extra.cluster import KMedoids
 import matplotlib.pyplot as plt
 
 # =========================
@@ -40,18 +40,18 @@ scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
 # =========================
-# KMEANS
+# KMEDOIDS
 # =========================
 
 n_clusters = int(input("Insira a quantidade de clusters: "))
 n_seed = int(input("Insira a seed: "))
 
-kmeans = KMeans(
+kmedoids = KMedoids(
     n_clusters=n_clusters,
     random_state=n_seed
 )
 
-clusters = kmeans.fit_predict(X_scaled)
+clusters = kmedoids.fit_predict(X_scaled)
 
 df["cluster"] = clusters
 
@@ -61,14 +61,14 @@ df["cluster"] = clusters
 
 silhouette = silhouette_score(X_scaled, clusters)
 
-print(f"\nCoeficiente de Silhueta: {silhouette:.4f}")
+print(f"\nCoeficiente de Silhueta (KMedoids): {silhouette:.4f}")
 
 # =========================
 # EXPORTAÇÃO PARA FOLIUM
 # =========================
 
 df.to_csv(
-    "output/input_kmeans.csv",
+    "output/input_kmedoids.csv",
     index=False,
     encoding="utf-8"
 )
@@ -96,7 +96,7 @@ plt.scatter(
 )
 
 plt.title(
-    f"Clusters de Municípios | Silhouette: {silhouette:.4f}"
+    f"KMedoids | Silhouette: {silhouette:.4f}"
 )
 
 plt.xlabel("PCA 1")

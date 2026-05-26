@@ -1,0 +1,1 @@
+As persepções permaneceram as mesmas, retirando 2 grupos para a proxima iteração. Quero ver se a seed vai alterar o resultado, a outra iteração de 15 grupos foi com a seed 42.

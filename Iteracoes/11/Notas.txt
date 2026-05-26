@@ -1,0 +1,1 @@
+A seed fez diferença, o CS está melhor, ja no caso do kmedoidsparece que ja não está melhorando em nada, os resultados estão estagnando. ultimo teste do dia será fazer com 12 grupos e observar se o CS continua melhorando.
