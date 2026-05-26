@@ -2,6 +2,8 @@
 
 Projeto da disciplina de Mineração de Dados com foco em clusterização de municípios brasileiros utilizando algoritmos de aprendizado não supervisionado e visualização geográfica interativa.
 
+Link para os arquivos entregaveis: https://drive.google.com/drive/folders/1iZuhWM8ytXZY-E5mGHuZUw3kg5swCio5?usp=sharing
+
 O projeto realiza:
 - pré-processamento dos dados;
 - clusterização utilizando K-Means;
@@ -14,8 +16,10 @@ O projeto realiza:
 
 # Autor
 
-Samuel Lima
-
+ - Samuel Lima
+ - 
+ -
+ - 
 ---
 
 # Objetivo do Projeto
