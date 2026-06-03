@@ -20,9 +20,7 @@ O projeto realiza:
  -PEDRO COELHO TEROSSI — 225883
  -LEONARDO BONFÁ SCHROEDER — 289156
  -GABRIEL FERREIRA DAMASCENO ALTINO — 234791
- - 
- -
- - 
+ 
 ---
 
 # Objetivo do Projeto
