@@ -14,9 +14,12 @@ O projeto realiza:
 
 ---
 
-# Autor
+# Autores
 
- - Samuel Lima
+ -SAMUEL LIMA MARTINS — 173820
+ -PEDRO COELHO TEROSSI — 225883
+ -LEONARDO BONFÁ SCHROEDER — 289156
+ -GABRIEL FERREIRA DAMASCENO ALTINO — 234791
  - 
  -
  - 
